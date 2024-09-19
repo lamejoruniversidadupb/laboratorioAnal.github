@@ -1,1 +1,1 @@
-# laboratorioAnal.github
+# laboratorioAnalisis.github
