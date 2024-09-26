@@ -1,5 +1,5 @@
 # laboratorioAnalisis.github
-Santiago Prada
+Leonel
 Gabriel Sastoque 
 Rafa carbonell
 Andres Nuñez
